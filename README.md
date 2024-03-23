@@ -18,7 +18,7 @@ I'm a Software Engineer passionate Computer Science and Artificial Intelligence.
 
 ### Frameworks And Libraries 📚
 
-- Knowing/Using
+- Know/Using
   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NET" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="24">
 
