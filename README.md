@@ -16,7 +16,7 @@ I'm a Software Engineer passionate Computer Science and Artificial Intelligence.
 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="Go" width="24">
 
-### Web Frameworks And Libraries
+### Web Frameworks And Libraries 📚
 
 - Knowing/Using
   
