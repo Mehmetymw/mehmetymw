@@ -2,7 +2,7 @@
 
 I'm a Software Engineer passionate Computer Science and Artificial Intelligence.
 
-- 🔭 I'm currently working on projects involving .NET, JavaScript and React.
+- 🔭 I'm currently working on projects involving .NET, Python and React.
 - 🌱 I'm currently learning Go, Deep Learning and Computer Vision.
 - 💬 Ask me about SQL, C#, JavaScript and Machine Learning.
 
