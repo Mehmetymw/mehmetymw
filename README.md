@@ -34,8 +34,8 @@ I'm a Software Engineer passionate Computer Science and Artificial Intelligence.
 - Learning
 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="24"> 
+<!--
 
 ### My GitHub Stats 📈
-<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetymw&show_icons=true&theme=radical)
 --!>
