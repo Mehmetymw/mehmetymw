@@ -1,8 +1,8 @@
 ### Hello World! 👋
 
-I'm a Software Engineer passionate Computer Science and Artificial Intelligence.
+I'm a Software Engineer passionate Distributed Systems and Artificial Intelligence.
 
-- 🔭 I'm currently working on projects involving .NET, Go and React.
+- 🔭 I'm currently working on projects involving .NET, Go and Python.
 - 🌱 I'm currently learning Distributed Systems, Deep Learning and Computer Vision.
 - 💬 Ask me about C#, Go and Machine Learning.
 
