@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm a Software Engineer passionate Distributed Systems and Artificial Intelligence.
+I'm a Software Engineer passionate Distributed Systems and Machine Learning
 
 - 🔭 I'm currently working on projects involving Go .NET, and Python.
 - 🌱 I'm currently learning Distributed Systems, Deep Learning and Computer Vision.
@@ -12,7 +12,7 @@ I'm a Software Engineer passionate Distributed Systems and Artificial Intelligen
 
 ## 🛠️ Tools
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitLab" width="24">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitLab" width="24"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" alt="GitLab" width="24">
 
 ## 🚀 Current Projects
 
