@@ -18,7 +18,6 @@ I'm a Software Engineer passionate Distributed Systems and Artificial Intelligen
 
 - **CookWiseAI**: Building a mobile app with Go and React Native to suggest recipes based on ingredient lists and images using AI.
 
-<!--
 ### My GitHub Stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetymw&show_icons=true&theme=radical)
 
